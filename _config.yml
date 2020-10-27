@@ -6,7 +6,7 @@ url: "https://solarmysteries.github.io"
 baseurl: "/parchment"
 
 footer_only_homepage: true
-footer_url: ""
+footer_url: "https://twitter.com/SolarMysteries"
 footer_text: "Beyond the profane"
 
 profile-picture: assets/profile.png
