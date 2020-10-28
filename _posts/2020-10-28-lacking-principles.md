@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lacking principles
-subtitle: 
+subtitle: 1
 tags: [solar mysteries]
 ---
 
